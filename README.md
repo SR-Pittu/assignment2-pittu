@@ -26,3 +26,5 @@ I am interested in Music. My favorite boy band is BTS. There is a museum in Seou
 * N Seoul Tower : Built on a 262 meter peak in Namsan Park, the tower reaches to 480 meters above sea level. When the weather and pollution levels cooperate, visiting the observation tower (370 meters above sea level) allows you to view the entire city and surrounding areas.
 * Bongeunsa Temple : It’s hard to believe that this large, beautiful Buddhist temple is situated in the middle of a bustling metropolis. It’s impossible not to be moved by the beauty and serenity of this enchanting temple. You can even stay overnight for a fee.
 * Okeunnae Dakgalbi is the famous restaurant near HYBE INSIGHT. Which is famous for traditional korean food.
+
+link to about me : [AboutMe](AboutMe.md)
