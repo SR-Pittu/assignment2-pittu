@@ -18,3 +18,13 @@ My favourite cities to visit are Seoul,Kanya Kumari, Los Angles and Paris.These 
 | Kanya Kumari | A popular tourist destination in India which is famous for its unique sunrise and sunset point and Padmanabhapuram Palace | 2 days |
 | Los Angeles | Santa Monica Pier | 1 day |
 | Paris | Eiffel Tower | 3 days |
+
+
+---
+
+#### Pithy Quotes
+
+> "I’m like a surfer, first you just paddle and fall off the board but as time goes by you can stand up on the bigger waves."  *RM,Kim NamJoon*
+
+> "Life is tough, and things don't always work out well, but we should be brave and go on with our lives."   *Suga, Min YoonGi*
+
