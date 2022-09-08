@@ -28,3 +28,27 @@ My favourite cities to visit are Seoul,Kanya Kumari, Los Angles and Paris.These 
 
 > "Life is tough, and things don't always work out well, but we should be brave and go on with our lives."   *Suga, Min YoonGi*
 
+
+---
+
+#### Code Fencing
+
+>Adding two languages with two directions to Bootstrap and Html <https://stackoverflow.com/questions/73642642/adding-two-languages-with-two-directions-to-bootstrap-and-html>
+
+
+```
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
+       codebase="http://www.apple.com/qtactivex/qtplugin.cab"
+       width="200" height="16">
+ <param name="src" value="movie.mov" />
+ <param name="autoplay" value="true" />
+ <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
+ <param name="controller" value="true" />
+ <!--[if !IE]> <-->
+   <object data="movie.mov" width="200" height="16" type="video/quicktime">
+     <param name="pluginurl" value="http://www.apple.com/quicktime/download/" />
+     <param name="controller" value="true" />
+   </object>
+ <!--> <![endif]-->
+ ```
+ Lets go to the code snippet displayed above <https://css-tricks.com/snippets/html/embedding-quicktime/>
